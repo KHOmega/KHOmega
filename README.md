@@ -15,9 +15,9 @@ Here you will find me doing various things such as:
 ----
 
 ### Where to reach me!
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.twitter.com%2FKHOmega&style=Social&logo=X&label=KHOmega&labelColor=000000&color=26a7de)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCPH4L44zseIe3e1oAk_-4TQ&style=flat&logo=YouTube&label=KHOmega&labelColor=FF0000&color=282828)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.discord.com&style=flat&logo=Discord&label=KHOmega&labelColor=%09%23424549&color=%237289da)
+![https://www.twitter.com/KHOmega](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.twitter.com%2FKHOmega&style=Social&logo=X&label=KHOmega&labelColor=000000&color=26a7de)
+![https://www.youtube.com/KHOmega](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCPH4L44zseIe3e1oAk_-4TQ&style=flat&logo=YouTube&label=KHOmega&labelColor=FF0000&color=282828)
+![https://www.discord.com](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.discord.com&style=flat&logo=Discord&label=KHOmega&labelColor=%09%23424549&color=%237289da)
 <!--
 **KHOmega/KHOmega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

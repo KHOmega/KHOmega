@@ -15,7 +15,14 @@ Here you will find me doing various things such as:
 ----
 
 ### Where to reach me!
-T.B.A!
+
+<a href="https://www.twitter.com/KHOmega">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=KHOmega" />
+<a href="https://www.youtube.com/KHOmega">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=KHOmega" />
+<a href="https://www.discord.com" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=KHOmega" />
+
 <!--
 **KHOmega/KHOmega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,9 +2,9 @@
 Hi! My name is Em and I'm a twenty-six year old college graduate currently figuring out life while learning how to be an adult and do adult things such as paying taxes.
 Here you will find me doing various things such as:
 
-- Helping out [TopazTK](https://github.com/TopazTK) with his [Kingdom Hearts Re:Fined](https://github.com/KH-ReFined/KH-ReFined) Project
-- Creating guides on how to run [Kingdom Hearts on Linux](https://github.com/KHOmega/KH-ReFined-Setup)
-- Playing XIV, Tekken, and Kingdom Hearts non-stop.
+- Maintaining the Kingdom Hearts Re:Freshed project, which is a fork of TopazTK's Kingdom Hearts Re:Fined project.
+- Creating guides on how to run [Kingdom Hearts on Linux](https://github.com/KHOmega/KH-Linux-Setup)
+- Playing Final Fantasy XIV, Tekken, and Kingdom Hearts non-stop.
 ----
 
 ### Some other info!:

@@ -10,7 +10,7 @@ Here you will find me doing various things such as:
 ### Some other info!:
 - Pronouns: he/him
 - Fun Fact: I am a music major and specalize in voice!
-- I'm currently working on: Post-ShB in Final Fantasy XIV!
+- I'm currently working on: Getting my XIV Jobs to Level 90
 
 ----
 

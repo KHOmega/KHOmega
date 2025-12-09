@@ -25,7 +25,7 @@ I also enjoy copious amounts of FINAL FANTASY XIV Online, and TEKKEN.
 ----
 
 ### Hardware
-- **CPU:** AMD Ryzen 7 9800X3D (8) @ 5.27 GHz  
+- **CPU:** AMD Ryzen 7 9800x3D (8) @ 5.27 GHz  
 - **CPU Cooler:** Thermalright Frozen Edge 69 CFM Liquid CPU Cooler  
 - **GPU:** ASRock Challenger Radeon RX 9070 XT 16 GB Video Card  
 - **Memory:** G.Skill Ripjaws M5 Neo RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory  

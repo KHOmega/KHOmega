@@ -2,6 +2,8 @@
 
 I also enjoy copious amounts of FINAL FANTASY XIV Online, and TEKKEN.
 
+Kate Test
+
 ----
 ### System Information
 **OS:** Nobara Linux 43 (KDE Plasma Desktop Edition) x86_64  

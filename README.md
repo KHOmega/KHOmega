@@ -6,7 +6,8 @@ I also enjoy copious amounts of FINAL FANTASY XIV Online, and TEKKEN.
 ### System Information
 -  **OS:** Nobara Linux 43 (KDE Plasma Desktop Edition) x86_64  
 - **Host:** X870 AORUS ELITE WIFI7  
-- **Kernel:** Linux 6.17.10-200.nobara.fc43.x86_64  
+- **Kernel:** Linux 6.18.2-200.nobara.fc43.x86_64
+
 ----
 
 ### Display
@@ -16,7 +17,7 @@ I also enjoy copious amounts of FINAL FANTASY XIV Online, and TEKKEN.
 ----
 
 ### Desktop Environment
--  **DE:** KDE Plasma 6.5.3  
+- **DE:** KDE Plasma 6.5.4  
 - **WM:** KWin (Wayland)  
 ----
 

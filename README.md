@@ -5,23 +5,23 @@ I also enjoy copious amounts of FINAL FANTASY XIV Online, and TEKKEN.
 ----
 ### System Information
 -  **OS:** Nobara Linux 43 (KDE Plasma Desktop Edition) x86_64  
-- **Host:** X870 AORUS ELITE WIFI7  
-- **Kernel:** Linux 6.18.2-200.nobara.fc43.x86_64
+- **Kernel:** Linux 6.19.9-201.nobara.fc43.x86_64
 
 ----
 
 ### Display
 - **Display (GS34WQC):** 3440x1440 in 34", 120 Hz  
-- **Display (LG ULTRAGEAR):** 2560x1440 in 31", 165 Hz  
-- **Display (HDR):** 1920x1080 in 14", 60 Hz  
+- **Display (LG ULTRAGEAR):** 2560x1440 in 31", 120 Hz (Up to 165Hz)  
+- **Display (PM1562):** 1920x1080 in 16", 60 Hz  
 ----
 
 ### Desktop Environment
-- **DE:** KDE Plasma 6.5.4  
+- **DE:** KDE Plasma 6.6.2  
 - **WM:** KWin (Wayland)  
 ----
 
 ### Hardware
+- **Motherboard:** X870 AORUS ELITE WIFI7  
 - **CPU:** AMD Ryzen 7 9800x3D (8) @ 5.27 GHz  
 - **CPU Cooler:** Thermalright Frozen Edge 69 CFM Liquid CPU Cooler  
 - **GPU:** ASRock Challenger Radeon RX 9070 XT 16 GB Video Card  

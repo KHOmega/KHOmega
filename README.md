@@ -5,7 +5,7 @@ I also enjoy copious amounts of FINAL FANTASY XIV Online, and TEKKEN.
 ----
 ### System Information
 -  **OS:** Nobara Linux 43 (KDE Plasma Desktop Edition) x86_64  
-- **Kernel:** Linux 6.19.9-201.nobara.fc43.x86_64
+- **Kernel:** Linux 7.0.0-200.nobara.fc43.x86_64
 
 ----
 
